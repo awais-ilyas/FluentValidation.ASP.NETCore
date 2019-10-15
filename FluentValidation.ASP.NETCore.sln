@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentValidation.ASP.NETCore", "FluentValidation.ASP.NETCore\FluentValidation.ASP.NETCore.csproj", "{6EBF0FF4-755F-4FB1-AA0F-E38746D55BA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EBF0FF4-755F-4FB1-AA0F-E38746D55BA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EBF0FF4-755F-4FB1-AA0F-E38746D55BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EBF0FF4-755F-4FB1-AA0F-E38746D55BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EBF0FF4-755F-4FB1-AA0F-E38746D55BA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E0719A3-71D5-45CF-8352-E78A8B913087}
+	EndGlobalSection
+EndGlobal
